@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Source-KeynoteartHans';
+    src: url('Source-KeynoteartHans-Regular.eot');
+    src: url('Source-KeynoteartHans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Source-KeynoteartHans-Regular.woff2') format('woff2'),
+        url('Source-KeynoteartHans-Regular.woff') format('woff'),
+        url('Source-KeynoteartHans-Regular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
